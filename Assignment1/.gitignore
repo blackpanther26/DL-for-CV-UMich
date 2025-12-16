@@ -1,0 +1,22 @@
+# Python compilations
+__pycache__/
+*.pyc
+
+# Mac OS clutter
+.DS_Store
+
+# Virtual Environments
+env/
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IMPORTANT: Large Deep Learning Files (Too big for GitHub)
+*.pth
+*.ckpt
+*.h5
+/datasets/
+/data/
+*.zip
