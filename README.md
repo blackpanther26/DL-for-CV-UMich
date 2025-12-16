@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)
 ![Framework](https://img.shields.io/badge/framework-PyTorch-red.svg)
-![Status](https://img.shields.io/badge/status-Completed-green.svg)
+![Status](https://img.shields.io/badge/status-Incomplete-yellow.svg)
 
 This repository contains my solutions and assignment implementations for the **Deep Learning for Computer Vision** course offered by the **University of Michigan**, taught by **Justin Johnson**.
 
@@ -27,19 +27,3 @@ The course covers the implementation of deep learning algorithms for computer vi
 | **A6** | **Visualizing & Advanced Topics** | Network Visualization (Saliency maps, fooling images), Style Transfer. |
 
 *(Note: Depending on the specific semester offering, standard assignments usually cover the topics above. Adjust the table if your specific assignment list differed.)*
-
-## 🚀 How to Run
-
-Most assignments were developed using Google Colab. To run them:
-
-1.  Open the `.ipynb` file in GitHub.
-2.  Click the "Open in Colab" badge (if available) or download the file and upload it to your Google Drive.
-3.  Ensure you have the required datasets (instructions usually found inside the notebooks).
-
-If running locally:
-```bash
-# Clone the repository
-git clone [https://github.com/YOUR_USERNAME/DL-for-CV-UMich.git](https://github.com/YOUR_USERNAME/DL-for-CV-UMich.git)
-
-# Install dependencies
-pip install -r requirements.txt
